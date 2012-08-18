@@ -1,0 +1,1 @@
+This code was built using OpenCV(Can't remember the version, that'll mess you up though) and Microsoft Visual Studio. Also, there was supposed to be Arudiono code to go along with this, but I've seem to have misplaced it in the Void. Or Something. Honestly, this may take you some work to get up and running. Hmm. WEll this is not really much help at all now is it?
